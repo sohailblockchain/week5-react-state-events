@@ -1,5 +1,5 @@
 // =====================================================
-// Week 7: Lists & Forms in React
+// Week 6: Lists & Forms in React
 // Topic: Rendering Lists, Keys, Controlled Components
 // Practical Lab: React Task Manager (A4)
 // Instructor: Sohail Ahmed
